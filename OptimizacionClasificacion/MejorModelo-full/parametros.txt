@@ -1,0 +1,8 @@
+reservoir_size=4
+inputSize=20
+topology=full
+spectral_radius=0.9303656989166457
+sparsity=0.5841406780219736
+seed_in=78
+seed_res=99
+accuracy=0.769

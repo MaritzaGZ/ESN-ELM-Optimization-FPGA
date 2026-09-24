@@ -1,0 +1,8 @@
+reservoir_size=10
+inputSize=20
+topology=ring
+spectral_radius=0.930665152178988
+sparsity=0.9008279178192797
+seed_in=94
+seed_res=9
+accuracy=0.787

@@ -1,1 +1,15 @@
 Original/Lorenz3D.mat
+
+# Artefactos generados por las corridas de NAS-2obj.py (ambas carpetas)
+__pycache__/
+*.pyc
+Modelos/
+MejorModelo/
+MejorModelo-*/
+MejorEvo/
+F*.txt
+X*.txt
+ParetoFront_*.png
+
+# Dataset preprocesado (se regenera con preprocess.py)
+OptimizacionClasificacion/Dataset/
